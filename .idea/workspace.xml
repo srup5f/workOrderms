@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fd2f18d-f78b-4dc4-a63d-d8aa1cacab21" name="Default Changelist" comment="" />
+    <list default="true" id="4fd2f18d-f78b-4dc4-a63d-d8aa1cacab21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cQzuEBWUolzeARr0JO6UebAigH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -127,12 +130,24 @@
       <workItem from="1591346633214" duration="3657000" />
       <workItem from="1591684273442" duration="6195000" />
       <workItem from="1591767872358" duration="9032000" />
-      <workItem from="1591947073980" duration="897000" />
+      <workItem from="1591947073980" duration="2365000" />
     </task>
+    <task id="LOCAL-00001" summary="作业">
+      <created>1591948252829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591948252829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#HTTP_Proxy" timestamp="1591607197464">
@@ -151,10 +166,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="201" width="438" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1590655821954" />
-    <state x="400" y="96" key="FileChooserDialogImpl" timestamp="1591948069108">
+    <state x="175" y="0" key="CommitChangelistDialog2" timestamp="1591948247219">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="400" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591948069108" />
+    <state x="175" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591948247219" />
+    <state x="121" y="56" key="DiffContextDialog" timestamp="1591948201046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1591948201046" />
+    <state x="400" y="96" key="FileChooserDialogImpl" timestamp="1591949505683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="400" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591949505683" />
     <state width="1237" height="132" key="GridCell.Tab.0.bottom" timestamp="1591947675072">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -211,10 +234,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1590654579329" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1591947977529">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591949455947">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591947977529" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591949455947" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591949548915">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591949548915" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1591947076265">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
